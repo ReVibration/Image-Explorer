@@ -1,0 +1,15 @@
+C:\Users\bsiwa\OneDrive - University of Worcester\Uni\Year 3\COMP3404 - Applied Software Engineering\Other Resources\Assignment 1\Assignment1\ControllerLib\obj\Debug\ControllerLib.csproj.AssemblyReference.cache
+C:\Users\bsiwa\OneDrive - University of Worcester\Uni\Year 3\COMP3404 - Applied Software Engineering\Other Resources\Assignment 1\Assignment1\ControllerLib\obj\Debug\ControllerLib.csproj.SuggestedBindingRedirects.cache
+C:\Users\bsiwa\OneDrive - University of Worcester\Uni\Year 3\COMP3404 - Applied Software Engineering\Other Resources\Assignment 1\Assignment1\ControllerLib\obj\Debug\ControllerLib.csproj.CoreCompileInputs.cache
+C:\Users\bsiwa\OneDrive - University of Worcester\Uni\Year 3\COMP3404 - Applied Software Engineering\Other Resources\Assignment 1\Assignment1\ControllerLib\bin\Debug\ControllerLib.exe.config
+C:\Users\bsiwa\OneDrive - University of Worcester\Uni\Year 3\COMP3404 - Applied Software Engineering\Other Resources\Assignment 1\Assignment1\ControllerLib\bin\Debug\ControllerLib.exe
+C:\Users\bsiwa\OneDrive - University of Worcester\Uni\Year 3\COMP3404 - Applied Software Engineering\Other Resources\Assignment 1\Assignment1\ControllerLib\bin\Debug\ControllerLib.pdb
+C:\Users\bsiwa\OneDrive - University of Worcester\Uni\Year 3\COMP3404 - Applied Software Engineering\Other Resources\Assignment 1\Assignment1\ControllerLib\bin\Debug\GUI.exe
+C:\Users\bsiwa\OneDrive - University of Worcester\Uni\Year 3\COMP3404 - Applied Software Engineering\Other Resources\Assignment 1\Assignment1\ControllerLib\bin\Debug\GUI.pdb
+C:\Users\bsiwa\OneDrive - University of Worcester\Uni\Year 3\COMP3404 - Applied Software Engineering\Other Resources\Assignment 1\Assignment1\ControllerLib\bin\Debug\GUI.exe.config
+C:\Users\bsiwa\OneDrive - University of Worcester\Uni\Year 3\COMP3404 - Applied Software Engineering\Other Resources\Assignment 1\Assignment1\ControllerLib\obj\Debug\ControllerLib.csproj.CopyComplete
+C:\Users\bsiwa\OneDrive - University of Worcester\Uni\Year 3\COMP3404 - Applied Software Engineering\Other Resources\Assignment 1\Assignment1\ControllerLib\obj\Debug\ControllerLib.exe
+C:\Users\bsiwa\OneDrive - University of Worcester\Uni\Year 3\COMP3404 - Applied Software Engineering\Other Resources\Assignment 1\Assignment1\ControllerLib\obj\Debug\ControllerLib.pdb
+C:\Users\bsiwa\OneDrive - University of Worcester\Uni\Year 3\COMP3404 - Applied Software Engineering\Other Resources\Assignment 1\Assignment1\ControllerLib\bin\Debug\DataElements.exe
+C:\Users\bsiwa\OneDrive - University of Worcester\Uni\Year 3\COMP3404 - Applied Software Engineering\Other Resources\Assignment 1\Assignment1\ControllerLib\bin\Debug\DataElements.pdb
+C:\Users\bsiwa\OneDrive - University of Worcester\Uni\Year 3\COMP3404 - Applied Software Engineering\Other Resources\Assignment 1\Assignment1\ControllerLib\bin\Debug\DataElements.exe.config
